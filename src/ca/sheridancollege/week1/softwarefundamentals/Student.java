@@ -14,8 +14,7 @@ public class Student {
     private String name;
     private int ID;
     private int age;
-    
-    
+    private String email;
 
     public int getID() {
         return ID;
