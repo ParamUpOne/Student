@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package ca.sheridancollege.week1.softwarefundamentals;
-Date: 24 Jan, 2020
+//Date: 24 Jan, 2020
 
 /**
  *
